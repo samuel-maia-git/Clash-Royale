@@ -1,0 +1,7 @@
+.botao {
+    transition: transform 0.2s ease;
+}
+
+.botao:hover {
+    transform: scale(1.3);
+}
